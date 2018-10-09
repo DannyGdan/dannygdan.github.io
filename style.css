@@ -48,6 +48,15 @@ section.danny-3{
 section.danny-4{
     background-image: url(daniela4.jpg)
 }
-@media (max-width: 600px;){
-    
+@media (max-width: 600px) {
+    header {
+        top: 10px; 
+    }
+    footer{
+        left: 10px;
+        left: 10px
+    }
+    section{
+        background-attachment: scroll;
+    }
 }
