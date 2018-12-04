@@ -1,7 +1,6 @@
 *{
     box-sizing: border-box;
 }
-
 img{
     max-width: 100%;
     padding-top: 65px;
@@ -67,4 +66,7 @@ div.wrap:hover img{
 
 div.wrap h2 {
     z-index: 9999;
+}
+h3{
+    
 }
